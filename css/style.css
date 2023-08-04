@@ -75,6 +75,10 @@ img{
     max-width: var(--tam);
 }
 
+span{
+    color: #af7410;
+}
+
 @media (max-width:1200px) {
     .card-presentation_title{
         width: 90%;
